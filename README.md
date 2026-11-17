@@ -96,8 +96,8 @@ The purpose of PixelPaws is to apply basic and intermediate Java programming con
 
 ## Developers
 
-KIRBY BUSTAMANTE
-RENZ IVAN ILAGAN
+KIRBY BUSTAMANTE, 
+RENZ IVAN ILAGAN, 
 RHIAN AYESHA LACSAMANA
 
 ## Note
