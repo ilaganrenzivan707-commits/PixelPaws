@@ -34,12 +34,12 @@ The game also includes a special portal bonus stage.
 
 ## Technologies Used
 
-- Java
-- Java Swing
-- Java AWT
-- Java Timer
-- File Handling
-
+- **Java** – Main programming language used to develop the application.
+- **Java Swing** – Used to create the graphical user interface and interactive components.
+- **Java AWT** – Used for graphics, layouts, colors, fonts, and event handling.
+- **Java Timer** – Used to manage timed game updates and gameplay events.
+- **File Handling** – Used to store and retrieve game-related data.
+  
 ## Requirements
 
 - Java Development Kit (JDK)
