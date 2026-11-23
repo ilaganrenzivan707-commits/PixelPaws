@@ -92,7 +92,7 @@ The game uses local files to save the best score, performance history, and selec
 
 ## Project Purpose
 
-The purpose of PixelPaws is to apply basic and intermediate Java programming concepts through the development of an interactive game. It demonstrates the use of object-oriented programming, graphical user interfaces, event handling, game logic, and file handling.
+The purpose of PixelPaws is to apply basic and intermediate Java programming concepts through the development of an interactive game. It demonstrates the use of object-oriented programming, graphical user interfaces (GUI), event handling, game logic, and file handling.
 
 ## Developers
 
